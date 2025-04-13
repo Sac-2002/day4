@@ -1,0 +1,12 @@
+# Node.js
+node_modules/
+.env
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# System
+Thumbs.db
