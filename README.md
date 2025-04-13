@@ -17,3 +17,8 @@ Use Git best practices to manage a DevOps project.
 ## Tags
 - `v1.0` – Initial setup
 
+## 🔧 Technologies Used
+- Git
+- GitHub
+- Markdown
+
